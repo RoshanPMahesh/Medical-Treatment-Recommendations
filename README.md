@@ -1,4 +1,4 @@
-# Team012-DataDynamo
+# MediGuide: Treatment Recommender
 
 MediGuide is a medical treatment recommendation web app for people dealing with illnesses. The user would be able to create a profile that contains a history
 of all their symptoms and the severity for each of these symptoms. Based on these inputs, a list of the top 10 most common conditions and treatments will be
